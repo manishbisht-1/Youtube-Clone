@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/manishbisht-1/Youtube-Clone.git/static/css/main.440ebd01.chunk.css",
+    "main.js": "/manishbisht-1/Youtube-Clone.git/static/js/main.cdb93ae8.chunk.js",
+    "main.js.map": "/manishbisht-1/Youtube-Clone.git/static/js/main.cdb93ae8.chunk.js.map",
+    "runtime-main.js": "/manishbisht-1/Youtube-Clone.git/static/js/runtime-main.b34aa487.js",
+    "runtime-main.js.map": "/manishbisht-1/Youtube-Clone.git/static/js/runtime-main.b34aa487.js.map",
+    "static/js/2.9bed7db1.chunk.js": "/manishbisht-1/Youtube-Clone.git/static/js/2.9bed7db1.chunk.js",
+    "static/js/2.9bed7db1.chunk.js.map": "/manishbisht-1/Youtube-Clone.git/static/js/2.9bed7db1.chunk.js.map",
+    "static/js/3.39e1401f.chunk.js": "/manishbisht-1/Youtube-Clone.git/static/js/3.39e1401f.chunk.js",
+    "static/js/3.39e1401f.chunk.js.map": "/manishbisht-1/Youtube-Clone.git/static/js/3.39e1401f.chunk.js.map",
+    "index.html": "/manishbisht-1/Youtube-Clone.git/index.html",
+    "static/css/main.440ebd01.chunk.css.map": "/manishbisht-1/Youtube-Clone.git/static/css/main.440ebd01.chunk.css.map",
+    "static/js/2.9bed7db1.chunk.js.LICENSE.txt": "/manishbisht-1/Youtube-Clone.git/static/js/2.9bed7db1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b34aa487.js",
+    "static/js/2.9bed7db1.chunk.js",
+    "static/css/main.440ebd01.chunk.css",
+    "static/js/main.cdb93ae8.chunk.js"
+  ]
+}
